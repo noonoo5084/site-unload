@@ -8,7 +8,7 @@ https://fracital.dev
 # Supports
 - **Any static site**
 - **Discord**
-- **Youtube**
+- **yt**
 - **Mobile browsing!**
 - **Spotify**
 - **CAPTCHA/hCAPTCHA**
